@@ -1,0 +1,46 @@
+ALL:
+  ccs-paas: https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/Mural_ME/ccs-paas.v1.1.iso
+            https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/Mural_ME/ccs-paas.v1.1_packagemetadata.json
+  ccs-persistence: https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/Mural_ME/ccs-persistence.v0.2.iso
+                   https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/Mural_ME/ccs-persistence.v0.2-packagemetadata.json
+  ccs-hl7-adapter: https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/Mural_ME/ccs-hl7adapter.V0.9.iso
+                   https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/Mural_ME/ccs-hl7adapter.V0.9.packagemetadata.json
+  ccs-apps: https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/Mural_ME/ccs-apps.v0.9.iso
+            https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/Mural_ME/ccs-apps_v0.9_packagemetadata.json
+  ccs-decisio: https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/Mural_ME/edge-ccs-decisio-v2.15.0-06132019.iso
+               https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/Mural_ME/edge-ccs-decisio-v2.15.0-06132019-packagemetadata.json
+  ccs-sansoro: https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/Mural_ME/sansoro-v0.1.20190530.iso
+               https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/Mural_ME/sansoro-v0.1.20190530_packagemetadata.json
+  ccs-clinicalnotes: https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-release/ccsedge/clinicalnotes/clinicalnotes.v1.0.0.iso
+                     https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-release/ccsedge/clinicalnotes/clinicalnotes.v1.0.0_packagemetadata.json
+  ccs-scylla: https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/scyllavm/scylla.tar.gz
+              https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/scyllavm/scylla_packagemetadata.json
+            
+CCS-PAAS:
+  ccs-paas: https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/Mural_ME/ccs-paas.v1.1.iso
+            https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/Mural_ME/ccs-paas.v1.1_packagemetadata.json
+CCS-PERSISTENCE:
+  ccs-persistence: https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/Mural_ME/ccs-persistence.v0.2.iso
+                   https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/Mural_ME/ccs-persistence.v0.2-packagemetadata.json
+CCS-HL7-ADAPTER:                  
+  ccs-hl7-adapter: https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/Mural_ME/ccs-hl7adapter.V0.9.iso
+                   https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/Mural_ME/ccs-hl7adapter.V0.9.packagemetadata.json
+CCS-APPS:                  
+  ccs-apps: https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/Mural_ME/ccs-apps.v0.9.iso
+            https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/Mural_ME/ccs-apps_v0.9_packagemetadata.json
+CCS-SCYLLA:
+  ccs-scylla: https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/scyllavm/scylla.tar.gz
+              https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/scyllavm/scylla_packagemetadata.json
+CCS-CLINICALNOTES:
+  ccs-clinicalnotes: https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-release/ccsedge/clinicalnotes/clinicalnotes.v1.0.0.iso
+                     https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-release/ccsedge/clinicalnotes/clinicalnotes.v1.0.0_packagemetadata.json
+CCS-DECISIO:
+  ccs-decisio: https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/Mural_ME/edge-ccs-decisio-v2.15.0-06132019.iso
+               https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/Mural_ME/edge-ccs-decisio-v2.15.0-06132019-packagemetadata.json
+CCS-SANSORO:
+  ccs-sansoro: https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/Mural_ME/sansoro-v0.1.20190530.iso
+               https://hc-eu-west-aws-artifactory.cloud.health.ge.com/artifactory/generic-ccsedge-all/Mural_ME/sansoro-v0.1.20190530_packagemetadata.json
+
+
+  
+
