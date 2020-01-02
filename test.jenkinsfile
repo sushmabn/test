@@ -1,0 +1,5 @@
+@Library(['devops-groovy', 'dsl-lib']) _
+test {
+   mailingList      = 'sushma.bn@ge.com'
+   project          = 'ISO-download'
+   }
